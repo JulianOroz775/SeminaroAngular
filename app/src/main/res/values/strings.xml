@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seminario</string>
+    <string name="hello_word">Hello Word!</string>
+    <string name="movie_poster_description">Portada de la película</string>
+</resources>
